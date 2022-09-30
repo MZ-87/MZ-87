@@ -2,9 +2,9 @@
 
 <div id="links" align="center">
     <a href="https://codepen.io/MZ-87"><img src="https://atuin.ru/demo/simple-icons/icons/codepen.svg"
-            alt="codepen" width = "100px"></a>
+            alt="codepen" width = "80px"></a>
     <a href="https://www.codewars.com/users/MZ-87"><img src="https://atuin.ru/demo/simple-icons/icons/codewars.svg"
-            alt="codewars" width = "100px"></a>
+            alt="codewars" width = "80px"></a>
 </div>
 
 <!--

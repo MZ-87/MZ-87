@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Mariya and I'm a Frontend Developer 👋
 
 
 ### Technologies:

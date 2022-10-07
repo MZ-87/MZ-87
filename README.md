@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<div id="links" align="center">
-    <a href="https://codepen.io/MZ-87"><img src="https://atuin.ru/demo/simple-icons/icons/codepen.svg"
-            alt="codepen" width = "80px"></a>
-    <a href="https://www.codewars.com/users/MZ-87"><img src="https://atuin.ru/demo/simple-icons/icons/codewars.svg"
-            alt="codewars" width = "80px"></a>
-</div>
 
 ### Technologies:
 <div id=tools>
@@ -20,8 +14,15 @@
 
 ### Analytics:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MZ-87)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MZ-87&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MZ-87)
 
+### Also, you can find me here:
+<div id="links" align="left">
+    <a href="https://codepen.io/MZ-87"><img src="https://atuin.ru/demo/simple-icons/icons/codepen.svg"
+            alt="codepen" width='35'></a>
+    <a href="https://www.codewars.com/users/MZ-87"><img src="https://atuin.ru/demo/simple-icons/icons/codewars.svg"
+            alt="codewars" width='35'></a>
+</div>
 
 
 

@@ -21,9 +21,9 @@
 
 ### Also, you can find me here:
 <div id="links" align="left">
-    <a href="https://codepen.io/MZ-87"><img src="https://atuin.ru/demo/simple-icons/icons/codepen.svg"
+    <a href="https://codepen.io/MZ-87" target="_blank"><img src="https://atuin.ru/demo/simple-icons/icons/codepen.svg"
             alt="codepen" width='35'></a>
-    <a href="https://www.codewars.com/users/MZ-87"><img src="https://atuin.ru/demo/simple-icons/icons/codewars.svg"
+    <a href="https://www.codewars.com/users/MZ-87" target="_blank"><img src="https://atuin.ru/demo/simple-icons/icons/codewars.svg"
             alt="codewars" width='35'></a>
 </div>
 

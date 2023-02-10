@@ -18,7 +18,7 @@
 
 ### Project Managment Technologies:
 <div id=tools>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg' width='35' alt='trello' />
+    <img src='https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg' height='50' alt='trello' />
 </div>
 
 ### Analytics:

@@ -8,6 +8,7 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='35' alt='JavaScript' />
     <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' width='35' alt='git' />
     <img src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg' width='35' alt='sass' />
+    <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg' width='35' alt='bootstrap'/>
 </div>  
 
 ### Learning:

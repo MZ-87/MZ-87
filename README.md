@@ -16,9 +16,10 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width='35' alt='typescript' />
 </div>
 
-### Project Managment Technologies:
+### Project Managment and Design Technologies:
 <div id=tools>
     <img src='https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg' width='35' alt='trello' />
+    <img src='https://icons8.com/icon/zfHRZ6i1Wg0U/figma' width='35' alt='figma' />
 </div>
 
 ### Analytics:

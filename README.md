@@ -1,7 +1,7 @@
 ### Hi there, I'm Mariya and I'm a Frontend Developer 👋
 
 
-### Technologies:
+### Web Technologies:
 <div id=tools>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg' width='35' alt='HTML5'/>
     <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg' width='35' alt='CSS3' />
@@ -11,8 +11,14 @@
 </div>  
 
 ### Learning:
-<div id=tool>
+<div id=tools>
     <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='35' alt='react' />
+    <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width='35' alt='typescript' />
+</div>
+
+### Project Managment Technologies:
+<div id=tools>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg' width='35' alt='trello' />
 </div>
 
 ### Analytics:

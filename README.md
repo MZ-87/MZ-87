@@ -25,7 +25,6 @@
 
 ### Analytics:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MZ-87)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MZ-87)
 
 ### Also, you can find me here:
 <div id="links" align="left">

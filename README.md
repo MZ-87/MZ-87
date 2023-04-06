@@ -24,8 +24,8 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' width='35' alt='figma' />
 </div>
 
-### Analytics:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MZ-87)
+<!-- ### Analytics:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MZ-87) -->
 
 ### Also, you can find me here:
 <div id="links" align="left">
